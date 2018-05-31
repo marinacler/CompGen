@@ -1,0 +1,16 @@
+Running:                      	/afs/pdc.kth.se/misc/pdc/volumes/sbc/prj.sbc.dmessina.5/Comparative_Genomics/programs/grimm
+Input:                        	grim_genomes.txt
+Genome:                       	Circular
+Signs:                        	Signed
+Number of Genomes:            	4
+Number of Genes:              	1010
+Number of Chromosomes:        	0 (unichromosomal)
+
+Distance Matrix:
+
+   4
+Genome  1 :         	0 997 1001 985 
+Genome  2 :         	997 0 995 997 
+Genome  3 :         	1001 995 0 999 
+Genome  4 :         	985 997 999 0 
+
